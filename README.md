@@ -66,9 +66,6 @@ The project applies various data preprocessing, modeling, and evaluation techniq
     
 4. **Model Visualization**:
 
-
-
-
 ### 2. Customer Churn Prediction
 ![Project4](Images/churn.jpg)
 
@@ -76,10 +73,11 @@ The project applies various data preprocessing, modeling, and evaluation techniq
 #### Techniques Used:
 
 - **Deep Neural Networks (DNN)**: Predict customer churn for binary classification, specifically predicting churn (whether a customer will leave or stay active).
+![Project4](Images/Screenshot.jpg)
 
 
 - **Random Forest Classifier**: Handle class imbalance and improve accuracy. A supervised machine learning algorithm used for binary classification tasks, where the goal is to predict one of two possible outcomes.
-
+![Project4](Images/forest.jpg)
 
 #### Key Insights:
 - Retention and churn trends provide critical insights into customer behavior, enabling businesses to identify patterns and underlying factors contributing to customer loyalty or attrition. By analyzing these trends, companies can design targeted interventions, such as personalized marketing campaigns, loyalty programs, or improved customer support, to proactively address churn risks.
