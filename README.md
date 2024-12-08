@@ -132,7 +132,7 @@ These metrics demonstrate the model's ability to generalize and provide actionab
 ![Project4](Images/Hexbin.jpg)        ![Project4](Images/scatter.jpg)
 
 
-## 4. Sentiment Analysis
+## 4. Sentiment Analysis (*Prediction Button*)
 
 **Natural Language Processing (NLP)** techniques are applied to analyze customer reviews and determine their sentiment. This process helps to gauge customer satisfaction and identify areas for improvement based on user feedback.
 
