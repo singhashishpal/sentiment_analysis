@@ -140,9 +140,10 @@ These metrics demonstrate the model's ability to generalize and provide actionab
 
 We've built a chatbot-like interface using a combination of Flask and Streamlit. It allows users to interact in real-time by simply typing in customer details.
 The bot operates using a machine learning model trained on historical customer data. When users input the required details—age, gender, and their recent purchase amount—the model evaluates patterns and makes a prediction. The result helps businesses take targeted actions to retain at-risk customers or enhance relationships with loyal ones.
-To conclude, the Customer Retention Prediction Bot represents a step forward in leveraging machine learning for customer relationship management. Its simplicity, accessibility, and predictive capabilities make it a valuable tool for businesses looking to optimize their retention strategies.
 
 ![Project4](Images/14pre.jpg)
+
+The Customer Retention Prediction Bot represents a step forward in leveraging machine learning for customer relationship management. Its simplicity, accessibility, and predictive capabilities make it a valuable tool for businesses looking to optimize their retention strategies.
 
 ### Key Steps in Sentiment Analysis:
 1. **Text Preprocessing**:
